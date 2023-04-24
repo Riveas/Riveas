@@ -4,7 +4,7 @@ I'm dedicated to improving and broadening my programming skills and excited to g
 With strong foundation in programming and maths I've built during my Engineer and Master's studies, I'm exploring machine learning tools and methods that could elevate my skills even higher. Follow me to see my latest projects and personal development!
 
 ## Finished projects:
-https://github.com/Riveas/trendPredictor
+https://github.com/Riveas/trendPredictor  
 https://github.com/Riveas/Sleepnt
 
 ## Ongoing projects:
