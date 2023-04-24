@@ -8,6 +8,10 @@ https://github.com/Riveas/trendPredictor
 https://github.com/Riveas/Sleepnt
 
 ## Ongoing projects:
+https://github.com/Riveas/MastersThesis  
+https://github.com/Riveas/MoodLight  
+https://github.com/Riveas/ytDownloader  
+https://github.com/Riveas/Portfolio  
 <!--
 **Riveas/Riveas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
