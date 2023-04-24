@@ -2,6 +2,12 @@
 I'm currently a Master's student of last semester with an interest in machine learning.
 I'm dedicated to improving and broadening my programming skills and excited to give myself challenges. 
 With strong foundation in programming and maths I've built during my Engineer and Master's studies, I'm exploring machine learning tools and methods that could elevate my skills even higher. Follow me to see my latest projects and personal development!
+
+## Finished projects:
+https://github.com/Riveas/trendPredictor
+https://github.com/Riveas/Sleepnt
+
+## Ongoing projects:
 <!--
 **Riveas/Riveas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
