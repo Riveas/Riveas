@@ -6,7 +6,7 @@ With strong foundation in programming and maths I've built during my Engineer an
 ## Finished projects:
 https://github.com/Riveas/trendPredictor  
 https://github.com/Riveas/Sleepnt
-https://github.com/Riveas/rpiWiFi
+https://github.com/Riveas/rpiWiFi  
 
 ## Ongoing projects:
 https://github.com/Riveas/MastersThesis  
