@@ -7,13 +7,13 @@ With strong foundation in programming and maths I've built during my Engineer an
 https://github.com/Riveas/trendPredictor  
 https://github.com/Riveas/Sleepnt  
 https://github.com/Riveas/rpiWiFi  
-https://github.com/Riveas/dungeonCrawler  
 
 ## Ongoing projects:
 https://github.com/Riveas/MastersThesis  
 https://github.com/Riveas/MoodLight  
 https://github.com/Riveas/ytDownloader  
 https://github.com/Riveas/Portfolio  
+https://github.com/Riveas/dungeonCrawler  
 <!--
 **Riveas/Riveas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
